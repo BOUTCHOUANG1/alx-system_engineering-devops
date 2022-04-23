@@ -1,1 +1,2 @@
-go for it bud
+#!/bin/bash
+grep -c "bin" /etc/passwd
