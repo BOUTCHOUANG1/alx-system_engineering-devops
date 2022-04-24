@@ -1,1 +1,2 @@
-nwe
+#!/bin/bash
+export BEST="School"
